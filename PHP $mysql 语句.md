@@ -14,11 +14,7 @@ if ($mysql->connect_errno) {
 $mysql->query('set names utf8');
 ```
 
-## php数据类型
-
-```php
-
-```
+## 
 
 
 
