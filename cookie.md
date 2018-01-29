@@ -42,6 +42,22 @@ function getCookie(keys){
 
 ```
 
+# PHP cookie
+
+```
+设置 setcookie()
+删除 setcookie( time()-1)
+获取 $_COOKIE[];  全局变量
+
+//////////////////////////
+session   打开  使用 删除
+打开 session_start();
+$_SESSION = array(); 删除多个
+session_destroy()
+isset 设置
+unset 删除单个变量
+```
+
 
 
 
