@@ -14,7 +14,31 @@ if ($mysql->connect_errno) {
 $mysql->query('set names utf8');
 ```
 
-## 
+##select
+
+```php
+  $mysql -> query("select from tablename where aid=$aid");
+```
+
+## insert into
+
+```php
+$mysql -> query("insert into tablename() values ()");
+```
+
+## update
+
+```php
+$mysql -> query("update tablename set aid = '{$aid}' where aid=$aid");
+```
+
+## delete
+
+```php
+$mysql -> query("delete from tablename where aid=$aid");
+```
+
+
 
 
 

@@ -227,3 +227,15 @@ isset --检测变量是否设置，并且不是null
 outset
 ```
 
+## PHP变量声明
+
+```
+define 定义一个常量
+```
+
+## forEach
+
+```
+forEach(回调函数，this指向)
+```
+
