@@ -2,7 +2,7 @@
 
 冒充 Array.prototype.foreach
 
-# [...]
+
 
 ```
 aguments 用
