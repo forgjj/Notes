@@ -36,6 +36,9 @@ $mysql -> query("update tablename set aid = '{$aid}' where aid=$aid");
 
 ```php
 $mysql -> query("delete from tablename where aid=$aid");
+
+批量删除
+    
 ```
 
 
