@@ -1,5 +1,17 @@
 # Vue
 
+## 安装命令
+
+```
+$ npm install -g vue-cli
+$ vue init webpack my-project
+$ cd my-project
+$ npm install
+$ npm run dev
+```
+
+
+
 ```
 javascript 框架
 组件 mvvm双向数据绑定 
